@@ -1,6 +1,6 @@
 This project is a web chat app based on flask socketio.
 
-Features supported are:
+###Features supported are:
 User joining broadcast
 User leaving broadcast
 User update username
